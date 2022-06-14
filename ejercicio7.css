@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-style: dashed;
+    border-color: #555;
+    margin:10px
+}
